@@ -1,0 +1,19 @@
+/* styles.css */
+
+.pinkbackg {
+    color: #070e07ee;
+    background-color: #dd958bee;
+    font-family: Verdana, Tahoma, sans-serif
+}
+
+#numbertwo {
+  color: blue;
+  font-size: 36px;
+  font-weight: 500;
+}
+#numberfour {
+    color: #020502ee;
+    background-color: #6be96bee;
+    font-weight: 600;
+    font-size: 24px;
+}
