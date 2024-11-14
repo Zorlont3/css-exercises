@@ -19,8 +19,35 @@ button {
 }
 
 input {
+  display: flex;
   border: 1px solid #ddd;
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.left-links {
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+}
+
+.right-links {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
 }
